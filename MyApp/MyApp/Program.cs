@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BasicConcepts
+namespace MyApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Continuos Integratio Topics");
+            Console.WriteLine("Successfully Created");
+            Console.WriteLine("Solution");
             Console.ReadLine();
+
         }
     }
 }
